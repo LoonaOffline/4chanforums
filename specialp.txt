@@ -1,3 +1,3 @@
 shoutout = "@Cyan @Shile_ @MexZeroTwo @quickdaffy @KokoneNF @Below @TeeJ @Teegman @Urat"
 
-credits = "Idea @Loona, Coding/Development @DawnDevs, Music @YngJetskii, Program errors @DawnDevs, Artist @Loona,..."
+credits = "Idea @Loona, Coding/Development @DawnDevs, Music @YngJetskii, Program errors @DawnDevs, Artist @Loona, @Below,..."
